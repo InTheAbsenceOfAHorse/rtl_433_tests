@@ -1,0 +1,297 @@
+rtl_433 version 25.02 branch  at 202502191252 inputs file rtl_tcp RTL-SDR SoapySDR
+Found Rafael Micro R828D tuner
+[SDR] Using device 0: Realtek, RTL2838UHIDIR, SN: 00000001, "Generic RTL2832U OEM"
+Exact sample rate is: 250000.000414 Hz
+[R82XX] PLL not locked!
+Detected FSK package    2026-01-05 17:40:42
+Analyzing pulses...
+Total count:  311,  width: 406.10 ms            (101525 S)
+Pulse width distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  259,  width:  536 us [528;548]    ( 134 S)
+ [ 2] count:   10,  width: 2108 us [2108;2112]  ( 527 S)
+ [ 3] count:   40,  width: 1068 us [1068;1072]  ( 267 S)
+ [ 4] count:    1,  width:    4 us [4;4]        (   1 S)
+Gap width distribution:
+ [ 0] count:  260,  width:  528 us [468;544]    ( 132 S)
+ [ 1] count:   40,  width: 1064 us [1064;1068]  ( 266 S)
+ [ 2] count:    9,  width: 2116 us [2116;2120]  ( 529 S)
+ [ 3] count:    1,  width: 3112 us [3112;3112]  ( 778 S)
+Pulse period distribution:
+ [ 0] count:    1,  width:  468 us [468;468]    ( 117 S)
+ [ 1] count:  219,  width: 1068 us [1052;1072]  ( 267 S)
+ [ 2] count:   29,  width: 2472 us [2140;2652]  ( 618 S)
+ [ 3] count:   60,  width: 1604 us [1596;1616]  ( 401 S)
+ [ 4] count:    1,  width: 3640 us [3640;3640]  ( 910 S)
+Pulse timing distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  519,  width:  532 us [468;548]    ( 133 S)
+ [ 2] count:   19,  width: 2112 us [2108;2120]  ( 528 S)
+ [ 3] count:   80,  width: 1068 us [1064;1072]  ( 267 S)
+ [ 4] count:    1,  width:    4 us [4;4]        (   1 S)
+ [ 5] count:    1,  width: 3112 us [3112;3112]  ( 778 S)
+ [ 6] count:    1,  width:    0 us [0;0]        (   0 S)
+Level estimates [high, low]:  15719,    435
+RSSI: -0.2 dB SNR: 15.6 dB Noise: -15.8 dB
+Frequency offsets [F1, F2]:    6884,  -8173     (+26.3 kHz, -31.2 kHz)
+Guessing modulation: No clue...
+view at https://triq.org/pdv/#AAB0000701000002140840042C00040C2800008191919191919191919191919191919191919191A19391919191B19193B3919191B1919391919191B19191919191919192A19391919191B19193B3919191B1919391919191B19191919191919192A19391919191B19193B3919191B1919391919191B19191919191919192A19391919191B19193B3919191B1919391919191B19191919191919192A19391919191B19193B3919191B1919391919191B19191919191919192A19391919191B19193B3919191B1919391919191B19191919191919192A19391919191B19193B3919191B1919391919191B19191919191919192A19391919191B19193B3919191B1919391919191B19191919191919192A19391919191B19193B3919191B1919391919191B19191919191919192A19391919191B19193B3919191B1919391919191B1919191919191919555+AAB0110701000002140840042C00040C280000C055
+
+*** Saving signal to file g001_433.954M_250k.cu8 (134293 samples, 393216 bytes)
+Detected FSK package    2026-01-05 17:40:52
+Analyzing pulses...
+Total count:  300,  width: 402.96 ms            (100741 S)
+Pulse width distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  239,  width:  532 us [528;548]    ( 133 S)
+ [ 2] count:   10,  width: 2108 us [2108;2112]  ( 527 S)
+ [ 3] count:   50,  width: 1072 us [1072;1072]  ( 268 S)
+Gap width distribution:
+ [ 0] count:    1,  width:  416 us [416;416]    ( 104 S)
+ [ 1] count:  239,  width:  532 us [520;544]    ( 133 S)
+ [ 2] count:   50,  width: 1064 us [1064;1068]  ( 266 S)
+ [ 3] count:    9,  width: 2116 us [2116;2120]  ( 529 S)
+Pulse period distribution:
+ [ 0] count:    1,  width:  416 us [416;416]    ( 104 S)
+ [ 1] count:  189,  width: 1068 us [1052;1072]  ( 267 S)
+ [ 2] count:   29,  width: 2472 us [2140;2652]  ( 618 S)
+ [ 3] count:   80,  width: 1604 us [1596;1616]  ( 401 S)
+Pulse timing distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  478,  width:  532 us [520;548]    ( 133 S)
+ [ 2] count:   19,  width: 2112 us [2108;2120]  ( 528 S)
+ [ 3] count:  100,  width: 1068 us [1064;1072]  ( 267 S)
+ [ 4] count:    1,  width:  416 us [416;416]    ( 104 S)
+ [ 5] count:    1,  width: 3116 us [3116;3116]  ( 779 S)
+Level estimates [high, low]:  15726,    174
+RSSI: -0.2 dB SNR: 19.6 dB Noise: -19.7 dB
+Frequency offsets [F1, F2]:    6727,  -8748     (+25.7 kHz, -33.4 kHz)
+Guessing modulation: Pulse Width Modulation with sync/delimiter
+view at https://triq.org/pdv/#AAB03E0601000002140840042C01A00C2C8491919191919191919191919191919191919191A19391919191B19193B3919191B19193B19193B1919191919191919255+AAB02A0608000002140840042C01A00C2CA19391919191B19193B3919191B19193B19193B1919191919191919255+AAB02A0601000002140840042C01A00C2CA19391919191B19193B3919191B19193B19193B1919191919191919555
+Attempting demodulation... short_width: 532, long_width: 1072, reset_limit: 2124, sync_width: 2108
+Use a flex decoder with -X 'n=name,m=FSK_PWM,s=532,l=1072,r=2124,g=0,t=0,y=2108'
+[pulse_slicer_pwm] Analyzer Device
+codes     : {19}ffffe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe
+
+*** Saving signal to file g002_433.954M_250k.cu8 (134288 samples, 393216 bytes)
+Detected FSK package    2026-01-05 17:41:12
+Analyzing pulses...
+Total count:  301,  width: 406.16 ms            (101541 S)
+Pulse width distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  239,  width:  532 us [528;548]    ( 133 S)
+ [ 2] count:   10,  width: 2108 us [2108;2112]  ( 527 S)
+ [ 3] count:   50,  width: 1072 us [1072;1076]  ( 268 S)
+ [ 4] count:    1,  width:   56 us [56;56]      (  14 S)
+Gap width distribution:
+ [ 0] count:  240,  width:  532 us [504;544]    ( 133 S)
+ [ 1] count:   50,  width: 1064 us [1064;1068]  ( 266 S)
+ [ 2] count:    9,  width: 2116 us [2116;2120]  ( 529 S)
+ [ 3] count:    1,  width: 3060 us [3060;3060]  ( 765 S)
+Pulse period distribution:
+ [ 0] count:    1,  width:  504 us [504;504]    ( 126 S)
+ [ 1] count:  189,  width: 1068 us [1052;1072]  ( 267 S)
+ [ 2] count:   29,  width: 2472 us [2140;2652]  ( 618 S)
+ [ 3] count:   80,  width: 1604 us [1596;1616]  ( 401 S)
+ [ 4] count:    1,  width: 3588 us [3588;3588]  ( 897 S)
+Pulse timing distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  479,  width:  532 us [504;548]    ( 133 S)
+ [ 2] count:   19,  width: 2112 us [2108;2120]  ( 528 S)
+ [ 3] count:  100,  width: 1068 us [1064;1076]  ( 267 S)
+ [ 4] count:    1,  width:   56 us [56;56]      (  14 S)
+ [ 5] count:    1,  width: 3060 us [3060;3060]  ( 765 S)
+ [ 6] count:    1,  width:    0 us [0;0]        (   0 S)
+Level estimates [high, low]:  15896,    294
+RSSI: -0.1 dB SNR: 17.3 dB Noise: -17.5 dB
+Frequency offsets [F1, F2]:    8884,  -7401     (+33.9 kHz, -28.2 kHz)
+Guessing modulation: No clue...
+view at https://triq.org/pdv/#AAB0000701000002140840042C00380BF400008191919191919191919191919191919191919191A19391919191B19193B3919191B19193B193B1919191919191919192A19391919191B19193B3919191B19193B193B1919191919191919192A19391919191B19193B3919191B19193B193B1919191919191919192A19391919191B19193B3919191B19193B193B1919191919191919192A19391919191B19193B3919191B19193B193B1919191919191919192A19391919191B19193B3919191B19193B193B1919191919191919192A19391919191B19193B3919191B19193B193B1919191919191919192A19391919191B19193B3919191B19193B193B1919191919191919192A19391919191B19193B3919191B19193B193B1919191919191919192A19391919191B19193B3919191B19193B193B191919191919191919555+AAB0110701000002140840042C00380BF40000C055
+
+Detected OOK package    2026-01-05 17:41:12
+Analyzing pulses...
+Total count:    2,  width: 0.38 ms              (   95 S)
+Pulse width distribution:
+ [ 0] count:    1,  width:   88 us [88;88]      (  22 S)
+ [ 1] count:    1,  width:  228 us [228;228]    (  57 S)
+Gap width distribution:
+ [ 0] count:    1,  width:   64 us [64;64]      (  16 S)
+Pulse period distribution:
+ [ 0] count:    1,  width:  152 us [152;152]    (  38 S)
+Pulse timing distribution:
+ [ 0] count:    1,  width:   88 us [88;88]      (  22 S)
+ [ 1] count:    1,  width:  228 us [228;228]    (  57 S)
+ [ 2] count:    1,  width:   64 us [64;64]      (  16 S)
+ [ 3] count:    1,  width: 10004 us [10004;10004]       (2501 S)
+Level estimates [high, low]:  11598,    331
+RSSI: -1.5 dB SNR: 15.4 dB Noise: -16.9 dB
+Frequency offsets [F1, F2]:    1446,      0     (+5.5 kHz, +0.0 kHz)
+Guessing modulation: Pulse Width Modulation with fixed gap
+view at https://triq.org/pdv/#AAB104005800E400402714829355
+Attempting demodulation... short_width: 88, long_width: 228, reset_limit: 68, sync_width: 0
+Use a flex decoder with -X 'n=name,m=OOK_PWM,s=88,l=228,r=68,g=0,t=56,y=0'
+[pulse_slicer_pwm] Analyzer Device
+codes     : {2}8
+
+*** Saving signal to file g003_433.954M_250k.cu8 (136912 samples, 393216 bytes)
+Detected FSK package    2026-01-05 17:41:21
+Analyzing pulses...
+Total count:  300,  width: 402.93 ms            (100733 S)
+Pulse width distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  239,  width:  532 us [528;548]    ( 133 S)
+ [ 2] count:   10,  width: 2108 us [2108;2112]  ( 527 S)
+ [ 3] count:   50,  width: 1068 us [1068;1072]  ( 267 S)
+Gap width distribution:
+ [ 0] count:    1,  width:  396 us [396;396]    (  99 S)
+ [ 1] count:  239,  width:  532 us [520;544]    ( 133 S)
+ [ 2] count:   50,  width: 1064 us [1064;1068]  ( 266 S)
+ [ 3] count:    9,  width: 2116 us [2116;2120]  ( 529 S)
+Pulse period distribution:
+ [ 0] count:    1,  width:  396 us [396;396]    (  99 S)
+ [ 1] count:  189,  width: 1068 us [1052;1072]  ( 267 S)
+ [ 2] count:   29,  width: 2472 us [2136;2652]  ( 618 S)
+ [ 3] count:   80,  width: 1604 us [1596;1616]  ( 401 S)
+Pulse timing distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  478,  width:  532 us [520;548]    ( 133 S)
+ [ 2] count:   19,  width: 2112 us [2108;2120]  ( 528 S)
+ [ 3] count:  100,  width: 1068 us [1064;1072]  ( 267 S)
+ [ 4] count:    1,  width:  396 us [396;396]    (  99 S)
+ [ 5] count:    1,  width: 3136 us [3136;3136]  ( 784 S)
+Level estimates [high, low]:  15476,    297
+RSSI: -0.2 dB SNR: 17.2 dB Noise: -17.4 dB
+Frequency offsets [F1, F2]:    6891,  -8264     (+26.3 kHz, -31.5 kHz)
+Guessing modulation: Pulse Width Modulation with sync/delimiter
+view at https://triq.org/pdv/#AAB03E0601000002140840042C018C0C408491919191919191919191919191919191919191A19391919191B19193B3919191B19193B19391B1919191919191919255+AAB02A0608000002140840042C018C0C40A19391919191B19193B3919191B19193B19391B1919191919191919255+AAB02A0601000002140840042C018C0C40A19391919191B19193B3919191B19193B19391B1919191919191919555
+Attempting demodulation... short_width: 532, long_width: 1068, reset_limit: 2124, sync_width: 2108
+Use a flex decoder with -X 'n=name,m=FSK_PWM,s=532,l=1068,r=2124,g=0,t=0,y=2108'
+[pulse_slicer_pwm] Analyzer Device
+codes     : {19}ffffe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe, {27}fb76dfe
+
+Detected OOK package    2026-01-05 17:41:22
+Analyzing pulses...
+Total count:    3,  width: 0.35 ms              (   87 S)
+Pulse width distribution:
+ [ 0] count:    1,  width:   40 us [40;40]      (  10 S)
+ [ 1] count:    2,  width:  100 us [96;104]     (  25 S)
+Gap width distribution:
+ [ 0] count:    1,  width:   44 us [44;44]      (  11 S)
+ [ 1] count:    1,  width:   64 us [64;64]      (  16 S)
+Pulse period distribution:
+ [ 0] count:    1,  width:   84 us [84;84]      (  21 S)
+ [ 1] count:    1,  width:  160 us [160;160]    (  40 S)
+Pulse timing distribution:
+ [ 0] count:    2,  width:   40 us [40;44]      (  10 S)
+ [ 1] count:    2,  width:  100 us [96;104]     (  25 S)
+ [ 2] count:    1,  width:   64 us [64;64]      (  16 S)
+ [ 3] count:    1,  width: 10004 us [10004;10004]       (2501 S)
+Level estimates [high, low]:  11598,    345
+RSSI: -1.5 dB SNR: 15.3 dB Noise: -16.8 dB
+Frequency offsets [F1, F2]:    -420,      0     (-1.6 kHz, +0.0 kHz)
+Guessing modulation: No clue...
+view at https://triq.org/pdv/#AAB104002800640040271480929355
+
+*** Saving signal to file g004_433.954M_250k.cu8 (136882 samples, 393216 bytes)
+Detected FSK package    2026-01-05 17:41:32
+Analyzing pulses...
+Total count:  301,  width: 406.15 ms            (101538 S)
+Pulse width distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  239,  width:  532 us [528;548]    ( 133 S)
+ [ 2] count:   10,  width: 2108 us [2108;2112]  ( 527 S)
+ [ 3] count:   50,  width: 1072 us [1068;1076]  ( 268 S)
+ [ 4] count:    1,  width:    4 us [4;4]        (   1 S)
+Gap width distribution:
+ [ 0] count:  240,  width:  532 us [496;544]    ( 133 S)
+ [ 1] count:   50,  width: 1064 us [1064;1068]  ( 266 S)
+ [ 2] count:    9,  width: 2116 us [2116;2120]  ( 529 S)
+ [ 3] count:    1,  width: 3108 us [3108;3108]  ( 777 S)
+Pulse period distribution:
+ [ 0] count:    1,  width:  496 us [496;496]    ( 124 S)
+ [ 1] count:  199,  width: 1068 us [1052;1072]  ( 267 S)
+ [ 2] count:   39,  width: 2384 us [2136;2652]  ( 596 S)
+ [ 3] count:   60,  width: 1604 us [1596;1616]  ( 401 S)
+ [ 4] count:    1,  width: 3636 us [3636;3636]  ( 909 S)
+Pulse timing distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  479,  width:  532 us [496;548]    ( 133 S)
+ [ 2] count:   19,  width: 2112 us [2108;2120]  ( 528 S)
+ [ 3] count:  100,  width: 1068 us [1064;1076]  ( 267 S)
+ [ 4] count:    1,  width:    4 us [4;4]        (   1 S)
+ [ 5] count:    1,  width: 3108 us [3108;3108]  ( 777 S)
+ [ 6] count:    1,  width:    0 us [0;0]        (   0 S)
+Level estimates [high, low]:  15870,    253
+RSSI: -0.1 dB SNR: 18.0 dB Noise: -18.1 dB
+Frequency offsets [F1, F2]:    6966,  -7188     (+26.6 kHz, -27.4 kHz)
+Guessing modulation: No clue...
+view at https://triq.org/pdv/#AAB0000701000002140840042C00040C2400008191919191919191919191919191919191919191A19391919191B19193B3919191B19193B3B191919191919191919192A19391919191B19193B3919191B19193B3B191919191919191919192A19391919191B19193B3919191B19193B3B191919191919191919192A19391919191B19193B3919191B19193B3B191919191919191919192A19391919191B19193B3919191B19193B3B191919191919191919192A19391919191B19193B3919191B19193B3B191919191919191919192A19391919191B19193B3919191B19193B3B191919191919191919192A19391919191B19193B3919191B19193B3B191919191919191919192A19391919191B19193B3919191B19193B3B191919191919191919192A19391919191B19193B3919191B19193B3B19191919191919191919555+AAB0110701000002140840042C00040C240000C055
+
+Detected OOK package    2026-01-05 17:41:32
+Analyzing pulses...
+Total count:    1,  width: 0.06 ms              (   16 S)
+Pulse width distribution:
+ [ 0] count:    1,  width:   64 us [64;64]      (  16 S)
+Gap width distribution:
+Pulse period distribution:
+Pulse timing distribution:
+ [ 0] count:    1,  width:   64 us [64;64]      (  16 S)
+ [ 1] count:    1,  width: 10004 us [10004;10004]       (2501 S)
+Level estimates [high, low]:  11598,    346
+RSSI: -1.5 dB SNR: 15.3 dB Noise: -16.8 dB
+Frequency offsets [F1, F2]:    1539,      0     (+5.9 kHz, +0.0 kHz)
+Guessing modulation: Single pulse detected. Probably Frequency Shift Keying or just noise...
+view at https://triq.org/pdv/#AAB102004027148155
+
+*** Saving signal to file g005_433.954M_250k.cu8 (136849 samples, 393216 bytes)
+Detected FSK package    2026-01-05 17:41:50
+Analyzing pulses...
+Total count:  291,  width: 406.26 ms            (101565 S)
+Pulse width distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  219,  width:  532 us [524;548]    ( 133 S)
+ [ 2] count:   10,  width: 2108 us [2108;2112]  ( 527 S)
+ [ 3] count:   60,  width: 1068 us [1068;1076]  ( 267 S)
+ [ 4] count:    1,  width:  132 us [132;132]    (  33 S)
+Gap width distribution:
+ [ 0] count:  220,  width:  532 us [476;544]    ( 133 S)
+ [ 1] count:   60,  width: 1064 us [1064;1072]  ( 266 S)
+ [ 2] count:    9,  width: 2116 us [2116;2120]  ( 529 S)
+ [ 3] count:    1,  width: 3116 us [3116;3116]  ( 779 S)
+Pulse period distribution:
+ [ 0] count:    1,  width:  476 us [476;476]    ( 119 S)
+ [ 1] count:  179,  width: 1068 us [1052;1072]  ( 267 S)
+ [ 2] count:   49,  width: 2336 us [2136;2652]  ( 584 S)
+ [ 3] count:   60,  width: 1604 us [1596;1616]  ( 401 S)
+ [ 4] count:    1,  width: 3644 us [3644;3644]  ( 911 S)
+Pulse timing distribution:
+ [ 0] count:    1,  width:    0 us [0;0]        (   0 S)
+ [ 1] count:  439,  width:  532 us [476;548]    ( 133 S)
+ [ 2] count:   19,  width: 2112 us [2108;2120]  ( 528 S)
+ [ 3] count:  120,  width: 1068 us [1064;1076]  ( 267 S)
+ [ 4] count:    1,  width:  132 us [132;132]    (  33 S)
+ [ 5] count:    1,  width: 3116 us [3116;3116]  ( 779 S)
+ [ 6] count:    1,  width:   16 us [16;16]      (   4 S)
+Level estimates [high, low]:  13055,    281
+RSSI: -1.0 dB SNR: 16.7 dB Noise: -17.7 dB
+Frequency offsets [F1, F2]:   10084,  -6918     (+38.5 kHz, -26.4 kHz)
+Guessing modulation: No clue...
+view at https://triq.org/pdv/#AAB0000701000002140840042C00840C2C00108191919191919191919191919191919191919191A19391919191B19193B3919191B19193B3B3B19191919191919192A19391919191B19193B3919191B19193B3B3B19191919191919192A19391919191B19193B3919191B19193B3B3B19191919191919192A19391919191B19193B3919191B19193B3B3B19191919191919192A19391919191B19193B3919191B19193B3B3B19191919191919192A19391919191B19193B3919191B19193B3B3B19191919191919192A19391919191B19193B3919191B19193B3B3B19191919191919192A19391919191B19193B3919191B19193B3B3B19191919191919192A19391919191B19193B3919191B19193B3B3B19191919191919192A19391919191B19193B3919191B19193B3B3B1919191919191919555+AAB0110701000002140840042C00840C2C0010C655
+
+Detected OOK package    2026-01-05 17:41:51
+Analyzing pulses...
+Total count:    1,  width: 0.21 ms              (   53 S)
+Pulse width distribution:
+ [ 0] count:    1,  width:  212 us [212;212]    (  53 S)
+Gap width distribution:
+Pulse period distribution:
+Pulse timing distribution:
+ [ 0] count:    1,  width:  212 us [212;212]    (  53 S)
+ [ 1] count:    1,  width: 10004 us [10004;10004]       (2501 S)
+Level estimates [high, low]:  11598,    346
+RSSI: -1.5 dB SNR: 15.3 dB Noise: -16.8 dB
+Frequency offsets [F1, F2]:   -2132,      0     (-8.1 kHz, +0.0 kHz)
+Guessing modulation: Single pulse detected. Probably Frequency Shift Keying or just noise...
+view at https://triq.org/pdv/#AAB10200D427148155
+
+*** Saving signal to file g006_433.954M_250k.cu8 (136904 samples, 393216 bytes)
